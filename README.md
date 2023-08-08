@@ -51,3 +51,7 @@ Press `r` to reset all points and press `f` to start video object segmentation.
 The result should be as follows:
 
 ![image-20230414235344401](./figures/bmx-trees.gif)
+
+More results:
+
+![image](./figures/gifs.gif)
