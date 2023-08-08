@@ -2,7 +2,7 @@
 
 ![image-20230414235344401](./figures/bmx-trees.gif)
 
-This project combines OSTrack and SAM to do video object segmentation!
+This project combines OSTrack and SAM to do video object segmentation.
 
 OSTrack:https://github.com/botaoye/OSTrack
 
