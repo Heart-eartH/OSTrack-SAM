@@ -23,9 +23,9 @@ Download pre-trained weights for OSTrack and SAM, for example, `OSTrack_ep0300.p
 
 Put `OSTrack_ep0300.pth.tar` in `./output/checkpoints/train/ostrack/vitb_384_mae_ce_32x4_ep300`.
 
-Set the path of images in `./tracking/samdemo.py` line 36.
+Set the path of images in `./tracking/samdemo.py`.
 
-Set the path of SAM weight in `./lib/test/evaluation/tracker.py` line 74.
+Set the path of SAM weight in `./lib/test/evaluation/tracker.py`.
 
 ## Running
 
