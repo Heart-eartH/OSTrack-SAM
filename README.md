@@ -62,6 +62,6 @@ Press `r` to reset all points and press `f` to start video object segmentation.
 
 ## Results
 
-The results should be as follows:
+The results should be as follows (gt, img, pred):
 
 ![image](./figures/gifs.gif)
