@@ -48,8 +48,6 @@ In point mode, you can click on the image to set points and get the initial box,
 
 Press `r` to reset all points and press `f` to start video object segmentation.
 
-<video src="figures/media1.mp4" />
-
 ## Results
 
 The results should be as follows:
