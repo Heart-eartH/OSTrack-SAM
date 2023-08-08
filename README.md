@@ -39,6 +39,8 @@ This project has two modes to get the initial box, input `b` for box mode, `p` f
 
 In box mode, you can draw a rectangle as the initial box, and press `Enter` to start video object segmentation.
 
+![image](./figures/box.gif)
+
 ### Point Mode
 
 In point mode, you can click on the image to set points and get the initial box, there are two kinds of points (You can read SAM project for more details):
@@ -47,6 +49,8 @@ In point mode, you can click on the image to set points and get the initial box,
 - Negitive points: ctrl + left mouse button.
 
 Press `r` to reset all points and press `f` to start video object segmentation.
+
+![image](./figures/point.gif)
 
 ## Results
 
