@@ -8,6 +8,14 @@ OSTrack:https://github.com/botaoye/OSTrack
 
 SAM:https://github.com/facebookresearch/segment-anything
 
+In this project, we interact with SAM (box or point) to obtain the mask of the first frame, and then use the mask to obtain the corresponding box as the initial box for tracking.
+
+Using OSTrack, we can obtain the tracking boxes for subsequent frames, and based on these boxes, we can further obtain mask results through SAM to achieve the purpose of VOS.
+
+The pipeline is as follows:
+
+![image](./figures/pipeline.png)
+
 ## Install the environment
 
 ```shell
