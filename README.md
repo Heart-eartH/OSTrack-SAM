@@ -1,5 +1,7 @@
 # OSTrack-SAM
 
+![image-20230414235344401](./figures/bmx-trees.gif)
+
 This project combines OSTrack and SAM to do video object segmentation.
 
 OSTrack:https://github.com/botaoye/OSTrack
@@ -48,10 +50,6 @@ Press `r` to reset all points and press `f` to start video object segmentation.
 
 ## Results
 
-The result should be as follows:
-
-![image-20230414235344401](./figures/bmx-trees.gif)
-
-More results:
+The results should be as follows:
 
 ![image](./figures/gifs.gif)
